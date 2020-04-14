@@ -1,0 +1,4 @@
+-lib heaps random
+-js gameoflife.js
+-main Main
+-debug
